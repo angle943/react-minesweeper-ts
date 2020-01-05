@@ -4,9 +4,7 @@
     <list default="true" id="0629b3fd-cf01-4baf-9830-3dd50293309c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/App/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Button/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NumberDisplay/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NumberDisplay/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/types/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578192091555</updated>
-      <workItem from="1578192094822" duration="11186000" />
+      <workItem from="1578192094822" duration="13335000" />
     </task>
     <servers />
   </component>
@@ -109,5 +107,9 @@
       <screen x="-389" y="-1417" width="2560" height="1417" />
     </state>
     <state width="1685" height="388" key="GridCell.Tab.0.right/-389.-1417.2560.1417/0.23.1680.1027@-389.-1417.2560.1417" timestamp="1578202626640" />
+    <state x="129" y="-1092" width="670" height="676" key="search.everywhere.popup" timestamp="1578210147411">
+      <screen x="-389" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="129" y="-1092" width="670" height="676" key="search.everywhere.popup/-389.-1417.2560.1417/0.23.1680.1027@-389.-1417.2560.1417" timestamp="1578210147411" />
   </component>
 </project>

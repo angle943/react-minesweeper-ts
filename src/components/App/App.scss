@@ -25,6 +25,7 @@
 
 .Face {
   @include borders;
+  @include buttons;
   align-items: center;
   cursor: pointer;
   display: flex;

@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0629b3fd-cf01-4baf-9830-3dd50293309c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Button/Button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Button/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/types/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/index.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/App/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/App/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button/Button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/Button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +42,7 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
@@ -88,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578192091555</updated>
-      <workItem from="1578192094822" duration="4782000" />
+      <workItem from="1578192094822" duration="8710000" />
     </task>
     <servers />
   </component>
@@ -96,21 +96,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="388" key="GridCell.Tab.0.bottom" timestamp="1578192340782">
+    <state width="1685" height="388" key="GridCell.Tab.0.bottom" timestamp="1578202626641">
       <screen x="-389" y="-1417" width="2560" height="1417" />
     </state>
-    <state width="1259" height="388" key="GridCell.Tab.0.bottom/-389.-1417.2560.1417/0.23.1680.1027@-389.-1417.2560.1417" timestamp="1578192340782" />
-    <state width="1259" height="388" key="GridCell.Tab.0.center" timestamp="1578192340781">
+    <state width="1685" height="388" key="GridCell.Tab.0.bottom/-389.-1417.2560.1417/0.23.1680.1027@-389.-1417.2560.1417" timestamp="1578202626641" />
+    <state width="1685" height="388" key="GridCell.Tab.0.center" timestamp="1578202626640">
       <screen x="-389" y="-1417" width="2560" height="1417" />
     </state>
-    <state width="1259" height="388" key="GridCell.Tab.0.center/-389.-1417.2560.1417/0.23.1680.1027@-389.-1417.2560.1417" timestamp="1578192340781" />
-    <state width="1259" height="388" key="GridCell.Tab.0.left" timestamp="1578192340780">
+    <state width="1685" height="388" key="GridCell.Tab.0.center/-389.-1417.2560.1417/0.23.1680.1027@-389.-1417.2560.1417" timestamp="1578202626640" />
+    <state width="1685" height="388" key="GridCell.Tab.0.left" timestamp="1578202626639">
       <screen x="-389" y="-1417" width="2560" height="1417" />
     </state>
-    <state width="1259" height="388" key="GridCell.Tab.0.left/-389.-1417.2560.1417/0.23.1680.1027@-389.-1417.2560.1417" timestamp="1578192340780" />
-    <state width="1259" height="388" key="GridCell.Tab.0.right" timestamp="1578192340781">
+    <state width="1685" height="388" key="GridCell.Tab.0.left/-389.-1417.2560.1417/0.23.1680.1027@-389.-1417.2560.1417" timestamp="1578202626639" />
+    <state width="1685" height="388" key="GridCell.Tab.0.right" timestamp="1578202626640">
       <screen x="-389" y="-1417" width="2560" height="1417" />
     </state>
-    <state width="1259" height="388" key="GridCell.Tab.0.right/-389.-1417.2560.1417/0.23.1680.1027@-389.-1417.2560.1417" timestamp="1578192340781" />
+    <state width="1685" height="388" key="GridCell.Tab.0.right/-389.-1417.2560.1417/0.23.1680.1027@-389.-1417.2560.1417" timestamp="1578202626640" />
   </component>
 </project>

@@ -2,6 +2,46 @@
 
 .Button {
   @include borders;
-  width: 30px;
+  @include buttons;
+  align-items: center;
+  display: flex;
+  font-weight: bold;
   height: 30px;
+  justify-content: center;
+  width: 30px;
+
+  &.visible {
+    border-color: #7b7b7b;
+    border-width: 1px;
+  }
+
+  span {
+    font-size: 12px;
+    margin-left: 2px;
+  }
+
+  &.value-1 {
+    color: blue;
+  }
+  &.value-2 {
+    color: green;
+  }
+  &.value-3 {
+    color: red;
+  }
+  &.value-4 {
+    color: purple;
+  }
+  &.value-5 {
+    color: maroon;
+  }
+  &.value-6 {
+    color: turquoise;
+  }
+  &.value-7 {
+    color: black;
+  }
+  &.value-8 {
+    color: gray;
+  }
 }
